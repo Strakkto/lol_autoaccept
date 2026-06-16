@@ -1,10 +1,20 @@
-# LoL Auto-Accept - Dependencias
-pyautogui>=0.9.54
-opencv-python>=4.8.0
-numpy>=1.24.0
-Pillow>=10.0.0
+# LoL Jarvis — dependencias
+# pip install -r requirements.txt
+
+# Reconocimiento de voz
 SpeechRecognition>=3.10.0
-pyaudio>=0.2.13
-keyboard>=0.13.5
+
+# TTS neural (voz Jarvis)
 edge-tts>=6.1.9
+
+# Audio playback
 pygame>=2.5.0
+
+# HTTP para LCU API
+requests>=2.31.0
+
+# Fuzzy matching de campeones
+rapidfuzz>=3.6.0
+
+# Hotkeys globales
+keyboard>=0.13.5

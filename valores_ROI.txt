@@ -1,6 +1,0 @@
-#Valores ROI especificos de mi PC
-
-ROI_X1 = 0.44
-ROI_X2 = 0.55
-ROI_Y1 = 0.65
-ROI_Y2 = 0.75
